@@ -1,0 +1,5 @@
+,car_name,car_prices_in_rupee,kms_driven,fuel_type,transmission,ownership,manufacture,engine,Seats,company_name
+0,2.0 Longitude Option BSIV,1003000.0,86226,Diesel,Manual,1st Owner,2017-01-15,1956,5,Jeep
+2,2.5 G,16.4,60343,Petrol,Automatic,1st Owner,2019-01-15,2494,5,Toyota
+3,VX CVT,164000000.0,26696,Petrol,Automatic,1st Owner,2020-03-15,1199,5,Honda
+4,W6,35000.0,65000,Diesel,Automatic,2nd Owner,2020-01-15,2000,2,Mahindra
